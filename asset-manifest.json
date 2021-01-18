@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88fe0556.chunk.css",
+    "main.js": "/static/js/main.fbb46080.chunk.js",
+    "main.js.map": "/static/js/main.fbb46080.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.74b188c1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.74b188c1.js.map",
+    "static/js/2.a9080f1b.chunk.js": "/static/js/2.a9080f1b.chunk.js",
+    "static/js/2.a9080f1b.chunk.js.map": "/static/js/2.a9080f1b.chunk.js.map",
+    "static/js/3.7770b7c9.chunk.js": "/static/js/3.7770b7c9.chunk.js",
+    "static/js/3.7770b7c9.chunk.js.map": "/static/js/3.7770b7c9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.88fe0556.chunk.css.map": "/static/css/main.88fe0556.chunk.css.map",
+    "static/js/2.a9080f1b.chunk.js.LICENSE.txt": "/static/js/2.a9080f1b.chunk.js.LICENSE.txt",
+    "static/media/icaro-parado.9df03352.gif": "/static/media/icaro-parado.9df03352.gif",
+    "static/media/icaro.c3a6641e.gif": "/static/media/icaro.c3a6641e.gif",
+    "static/media/App.css": "/static/media/street.35518e42.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74b188c1.js",
+    "static/js/2.a9080f1b.chunk.js",
+    "static/css/main.88fe0556.chunk.css",
+    "static/js/main.fbb46080.chunk.js"
+  ]
+}
