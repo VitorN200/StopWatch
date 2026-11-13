@@ -6,7 +6,7 @@ O objetivo do projeto era aplicar os conhecimentos aprendidos em React para cons
 Essa aplicação foi escolhida como a **vencedora** pelos votos de mais de 100 colegas de classe 🎉.  
 O destaque foi a brincadeira com o hobby do professor de andar de bicicleta: implementei uma animação em JavaScript que move uma imagem horizontalmente de acordo com a porcentagem do tempo corrido definido pelo usuário.
 
-Link para visualização: stopwatch-production-9622aaba.up.railway.app
+Link para visualização: https://stopwatch-production-9622aaba.up.railway.app/
 
 ---
 
